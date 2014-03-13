@@ -1,5 +1,5 @@
 <?php
 
-defined('URL') or define('URL', 'http://dixitruth.com/mvc/');
+defined('URL') or define('URL', 'http://dixitruth.com/php_mvc/');
 
 ?>
